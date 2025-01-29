@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-long sum_of_ap(long n, long a, long d)
+long sum_of_gp(long n, long a, long d)
 {
     long sum = 0;
     if (n == 0)
@@ -25,6 +25,6 @@ long sum_of_ap(long n, long a, long d)
 
 int main()
 {
-    cout << sum_of_ap(5, 1, 3);
+    cout << sum_of_gp(5, 1, 3);
     return 0;
 }

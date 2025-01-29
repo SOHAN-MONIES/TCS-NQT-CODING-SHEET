@@ -1,6 +1,6 @@
 # TCS NQT Coding Questions Solutions in C++
 
-This repository contains solutions to the TCS NQT Coding Questions compiled from the [TCS NQT Coding Sheet](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions). The problems are solved using **C++**, providing clean, efficient, and well-documented code for each question.
+This repository contains solutions to the TCS NQT Coding Questions compiled from the [GeeksforGeeks TCS SDE Sheet](https://www.geeksforgeeks.org/tcs-sde-sheet-interview-questions-and-answers/). The problems are solved using **C++**, providing clean, efficient, and well-documented code for each question.
 
 ## Structure of the Repository
 
@@ -27,7 +27,6 @@ For example:
    ./Q01_array_manipulation
    ```
 
-
 ## Contribution
 
 Feel free to contribute by adding your own solutions or optimizing the existing ones. To contribute:
@@ -40,7 +39,7 @@ Ensure your code follows proper C++ coding standards and includes comments expla
 
 ## Resources
 
-- [TakeUForward TCS NQT Coding Sheet](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions)
+- [GeeksforGeeks TCS SDE Sheet](https://www.geeksforgeeks.org/tcs-sde-sheet-interview-questions-and-answers/)
 - [C++ Documentation](https://en.cppreference.com/)
 
 ## License
@@ -50,3 +49,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Happy Coding! 🎉
+

@@ -15,6 +15,6 @@ int factorial(int n)
 
 int main()
 {
-    cout << factorial(4);
+    cout << factorial(9);
     return 0;
 }

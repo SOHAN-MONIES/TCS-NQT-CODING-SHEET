@@ -16,6 +16,8 @@ long sum_of_gp(long n, long a, long d)
             sum += a + (i - 1) * d;
         }
         return sum;
+        
+        
     }
 }
 

@@ -19,6 +19,7 @@ int firstNonRepeating(vector<int> &arr)
 }
 
 int main() {
-    
+    vector<int> v1 = {1, 2, 3, 4, 5, 5, 1};
+    cout << firstNonRepeating(v1);
     return 0;
 }

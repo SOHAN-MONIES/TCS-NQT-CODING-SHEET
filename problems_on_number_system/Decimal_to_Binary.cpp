@@ -23,6 +23,7 @@ string decToBinary(int n)
 
 int main()
 {
-    cout<<decToBinary(36);
+    cout<<decToBinary(10);
+
     return 0;
 }

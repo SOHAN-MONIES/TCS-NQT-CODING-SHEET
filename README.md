@@ -1,6 +1,6 @@
 # TCS NQT Coding Questions Solutions in C++
 
-This repository contains solutions to the TCS NQT Coding Questions compiled from the [TCS NQT Coding Sheet](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions). The problems are solved using **C++**, providing clean, efficient, and well-documented code for each question.
+This repository contains solutions to the TCS NQT Coding Questions compiled from the [TCS NQT Coding Sheet](https://www.geeksforgeeks.org/tcs-sde-sheet-interview-questions-and-answers/). The problems are solved using **C++**, providing clean, efficient, and well-documented code for each question.
 
 ## Structure of the Repository
 
@@ -40,7 +40,7 @@ Ensure your code follows proper C++ coding standards and includes comments expla
 
 ## Resources
 
-- [TakeUForward TCS NQT Coding Sheet](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions)
+- [TCS NQT Coding Sheet](https://www.geeksforgeeks.org/tcs-sde-sheet-interview-questions-and-answers/)
 - [C++ Documentation](https://en.cppreference.com/)
 
 ## License
